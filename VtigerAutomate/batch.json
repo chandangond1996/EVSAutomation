@@ -1,0 +1,34 @@
+{
+	"Institute": "evs",
+	"place": "mondh",
+	"quality": "good",
+	//hgfhgf
+	"alpha": {
+		"student1": "shubham",
+		"student2": "aditya",
+		"student3": "chandan",     
+		//hghgfgh
+		"bita": {
+			"student1": "rahul",
+			"student2": "pradeep",
+			"student3": "tiwari",
+			"gama": {
+				"student1": "rakesh",
+				"student2": "mangesh",
+				"student3": "shivam",
+				"student4": "ram",
+				"student5": "op",
+				"delta": {
+					"student1": "sachin",
+					"student2": "deepak",
+					"student3": "raju",
+					"thita": {
+						"student1": "sahil",
+						"student2": "rakesh",
+						"student3": "arif"
+					}
+				}
+			}
+		}
+	}
+}

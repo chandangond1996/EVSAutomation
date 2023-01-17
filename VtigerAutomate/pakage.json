@@ -1,0 +1,24 @@
+{
+	"firstname": "chandan",
+	"lastname": "gond",
+	"age": 25,
+	"gender": "male",
+	"address": [
+		"vill : Dudawa",
+		"post: Mondh"
+	],
+	"Accadamy Detaile": {
+		"highschool": 2011,
+		"inter": 2013
+	},
+	"P%": {
+		"HS": 52,
+		"IM": 70,
+		"GR": 50
+	},
+	"TotalMarks": {
+		"Hs": 344,
+		"Im": 704,
+		"Gr": 350
+	}
+}
